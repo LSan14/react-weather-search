@@ -10,7 +10,10 @@ export default function App() {
         <Weather defaultCity="Los Angeles" />
         <footer>
           This project is coded by Lizeth Sandoval and is open-source in{" "}
-          <a href="https://github.com/LSan14/my-react-weather" target="_blank">
+          <a
+            href="https://https://github.com/LSan14/react-weather-search"
+            target="_blank"
+          >
             {""} Github.
           </a>
         </footer>
